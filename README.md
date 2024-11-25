@@ -18,8 +18,7 @@ This project allows users to explore books, find recommendations, and interact w
 
 ---
 
-![Preview](./your-gif-file-name.gif)
-
+![Book Recommendation Preview](./book_recommendation_preview.gif)
 
 ---
 
