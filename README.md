@@ -7,6 +7,12 @@ This project allows users to explore books, find recommendations, and interact w
 
 ---
 
+![Book Recommendation Preview](./book_recommendation_preview.gif)
+
+---
+
+---
+
 ## **Features**
 
 1. **Book of the Day**: Displays a random book to kickstart your exploration.
@@ -16,11 +22,7 @@ This project allows users to explore books, find recommendations, and interact w
 5. **Popular Books**: Highlights trending books.
 6. **Book Details**: View detailed information about each book.
 
----
-
-![Book Recommendation Preview](./book_recommendation_preview.gif)
-
----
+--
 
 ## **Folder Structure**
 
