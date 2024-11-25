@@ -7,7 +7,9 @@ This project allows users to explore books, find recommendations, and interact w
 
 ---
 
-![Book Recommendation Preview](./book_recommendation_preview.gif)
+<p align="center">
+  <img src="./book_recommendation_preview.gif" alt="Book Recommendation Preview" width="1000" height="400">
+</p>
 
 ---
 
